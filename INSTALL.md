@@ -1,4 +1,4 @@
-# **Installation**
+# **Lumen Installation**
 
 * Installation
   - [Server Requirements](#server-requirements)
@@ -7,7 +7,7 @@
 
 ### __Installation__
 
-#### _Server Requirements__
+#### _Server Requirements_
 * PHP >= 7.2
 * OpenSSL PHP Extension
 * PDO PHP Extension
